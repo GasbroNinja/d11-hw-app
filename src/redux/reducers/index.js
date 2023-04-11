@@ -1,4 +1,4 @@
-
+/*
 const initialState = {
     myfavorites: {
         content: []
@@ -32,3 +32,4 @@ const mainReducer = (state = initialState, action) => {
 }
 
 export default mainReducer;
+*/
